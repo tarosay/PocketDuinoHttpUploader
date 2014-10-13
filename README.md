@@ -15,3 +15,8 @@ Http Uploader is not in the public domain and Minao Yamamoto keeps its copyright
 
 http://opensource.org/licenses/mit-license.php
  (end of COPYRIGHT)
+=======================
+プログラムには、PhysicaloidLibrary[https://github.com/ksksue/PhysicaloidLibrary]が必要です。
+
+
+
