@@ -1,0 +1,27 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:orientation="vertical"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	>
+  
+    <Button
+        android:id="@+id/btOpen"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickOpen"
+        android:text="@string/open" />
+
+    <Button
+        android:id="@+id/btClose"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="onClickClose"
+        android:text="@string/close" />
+
+    <TextView
+        android:id="@+id/tvNotification"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/notification" />
+
+</LinearLayout>
